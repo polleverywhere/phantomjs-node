@@ -33,7 +33,7 @@
     "ps-tree": "~0.0.2",
     "vows": "~0.7.0",
     "bluebird": "~1.2.3",
-    "phantomjs": "~1.9.7-5"
+    "phantomjs-webfonts": "1.9.3"
   },
   "licenses": {
     "type": "MIT",
